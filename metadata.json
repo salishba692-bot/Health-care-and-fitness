@@ -1,0 +1,6 @@
+{
+  "name": "CareHub Karachi - Health, Fitness & Hospital Directory",
+  "description": "Comprehensive Health Hub featuring health metric tracking, specialized diabetes & BP nutrition plans, Karachi hospital directory across 7 zones, and disease encyclopedia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
